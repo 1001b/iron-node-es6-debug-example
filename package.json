@@ -1,0 +1,26 @@
+{
+  "name": "iron-node-es6-debug-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "iron-node index"
+  },
+  "keywords": [
+    "iron-node",
+    "node-debug",
+    "es6",
+    "require hook",
+    "babel-core",
+    "babel-register",
+    "babel-preset-2015"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.3.15",
+    "babel-core": "^6.3.15",
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
